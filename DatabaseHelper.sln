@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseHelper", "DatabaseHelper\DatabaseHelper.csproj", "{457D313A-4BBD-4C58-93F2-89E42A62D012}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C529CA9A-0C2B-445F-BFCA-AED8025C9BB1}"
+	ProjectSection(SolutionItems) = preProject
+		DatabaseHelper3 (Will Lunden's conflicted copy 2015-04-08).vsmdi = DatabaseHelper3 (Will Lunden's conflicted copy 2015-04-08).vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication2", "WindowsFormsApplication2\WindowsFormsApplication2.csproj", "{B96BC31C-864E-4FBB-A5A2-F07992602F29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{457D313A-4BBD-4C58-93F2-89E42A62D012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{457D313A-4BBD-4C58-93F2-89E42A62D012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{457D313A-4BBD-4C58-93F2-89E42A62D012}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{457D313A-4BBD-4C58-93F2-89E42A62D012}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{457D313A-4BBD-4C58-93F2-89E42A62D012}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{457D313A-4BBD-4C58-93F2-89E42A62D012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{457D313A-4BBD-4C58-93F2-89E42A62D012}.Release|Any CPU.Build.0 = Release|Any CPU
+		{457D313A-4BBD-4C58-93F2-89E42A62D012}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{457D313A-4BBD-4C58-93F2-89E42A62D012}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{457D313A-4BBD-4C58-93F2-89E42A62D012}.Release|x86.ActiveCfg = Release|Any CPU
+		{B96BC31C-864E-4FBB-A5A2-F07992602F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B96BC31C-864E-4FBB-A5A2-F07992602F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B96BC31C-864E-4FBB-A5A2-F07992602F29}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B96BC31C-864E-4FBB-A5A2-F07992602F29}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B96BC31C-864E-4FBB-A5A2-F07992602F29}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B96BC31C-864E-4FBB-A5A2-F07992602F29}.Debug|x86.Build.0 = Debug|Any CPU
+		{B96BC31C-864E-4FBB-A5A2-F07992602F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B96BC31C-864E-4FBB-A5A2-F07992602F29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B96BC31C-864E-4FBB-A5A2-F07992602F29}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B96BC31C-864E-4FBB-A5A2-F07992602F29}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B96BC31C-864E-4FBB-A5A2-F07992602F29}.Release|x86.ActiveCfg = Release|Any CPU
+		{B96BC31C-864E-4FBB-A5A2-F07992602F29}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = DatabaseHelper3 (Will Lunden's conflicted copy 2015-04-08).vsmdi
+	EndGlobalSection
+EndGlobal
