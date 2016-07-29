@@ -1,0 +1,11 @@
+Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\bin\Release\public_key.snk
+Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\bin\Release\DatabaseHelper.dll
+Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\bin\Release\DatabaseHelper.pdb
+Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\bin\Release\MySql.Data.dll
+Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\bin\Release\MySql.Data.Entity.dll
+Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\bin\Release\MySql.Web.dll
+Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\bin\Release\Enyim.Caching.Log4NetAdapter.pdb
+Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\bin\Release\Enyim.Caching.NLogAdapter.pdb
+Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\obj\Release\DatabaseHelper.csprojResolveAssemblyReference.cache
+Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\obj\Release\DatabaseHelper.dll
+Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\obj\Release\DatabaseHelper.pdb

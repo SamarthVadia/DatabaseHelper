@@ -9,3 +9,14 @@ Z:\Samarth\Zeus\databasehelper3\DatabaseHelper3\bin\Debug\Enyim.Caching.NLogAdap
 Z:\Samarth\Zeus\databasehelper3\DatabaseHelper3\obj\Debug\DatabaseHelper.csprojResolveAssemblyReference.cache
 Z:\Samarth\Zeus\databasehelper3\DatabaseHelper3\obj\Debug\DatabaseHelper.dll
 Z:\Samarth\Zeus\databasehelper3\DatabaseHelper3\obj\Debug\DatabaseHelper.pdb
+Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\bin\Debug\public_key.snk
+Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\bin\Debug\DatabaseHelper.dll
+Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\bin\Debug\DatabaseHelper.pdb
+Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\bin\Debug\MySql.Data.dll
+Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\bin\Debug\MySql.Data.Entity.dll
+Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\bin\Debug\MySql.Web.dll
+Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\bin\Debug\Enyim.Caching.Log4NetAdapter.pdb
+Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\bin\Debug\Enyim.Caching.NLogAdapter.pdb
+Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\obj\Debug\DatabaseHelper.csprojResolveAssemblyReference.cache
+Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\obj\Debug\DatabaseHelper.dll
+Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\obj\Debug\DatabaseHelper.pdb
