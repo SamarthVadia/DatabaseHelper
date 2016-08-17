@@ -328,6 +328,8 @@ namespace DatabaseHelper
         #region Writing functions used by cicero
         public void writeVariableValues(variableStruct incomingVariableStruct)
         {
+            int column_flag = 0;        //A flag is necessary to update columnName list and remove _unusedcolumn_ from the list as well
+
             MySqlCommand cmd1 = new MySqlCommand("SELECT column_name from information_schema.columns where table_name = 'ciceroOut'", this.conn); //get list of columns
             MySqlDataReader reader = cmd1.ExecuteReader(); //Reading the columns
             List<string> columnNames = new List<string>(); //List of the column names
@@ -344,6 +346,23 @@ namespace DatabaseHelper
 
             foreach (variable var in incomingVariableStruct.variableList)
             {
+                if (column_flag == 1)
+                {
+                    cmd1 = new MySqlCommand("SELECT column_name from information_schema.columns where table_name = 'ciceroOut'", this.conn); //get list of columns
+                    reader = cmd1.ExecuteReader(); //Reading the columns
+                    columnNames.Clear();    //Empty the previous column names
+
+                    //First we see if we have to add any columns
+
+                    while (reader.Read())
+                    {
+                        columnNames.Add(reader[0].ToString()); //Add each column name
+                    }
+
+                    columnNames.RemoveAt(0); //We don't want to include the primary key here
+                    reader.Close();
+                    column_flag = 0;    //columnName list updated
+                }
                 string name = var.Name;
                 int flag = 0;
                 foreach (string colName in columnNames)
@@ -354,6 +373,7 @@ namespace DatabaseHelper
                 {
                     bool matchFound = false;
                     string key = "";
+                    column_flag = 1;        //A new column is added so need to update columnName list
                     foreach (string columnName in columnNames)
                     {
                         Match match = Regex.Match(columnName, @"^(_unusedcolumn_[0-9]*)$", RegexOptions.IgnoreCase);

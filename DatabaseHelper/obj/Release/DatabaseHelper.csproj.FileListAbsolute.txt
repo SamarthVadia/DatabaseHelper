@@ -9,3 +9,14 @@ Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\bin\Release\Enyim.Caching.NLog
 Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\obj\Release\DatabaseHelper.csprojResolveAssemblyReference.cache
 Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\obj\Release\DatabaseHelper.dll
 Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\obj\Release\DatabaseHelper.pdb
+E:\GitHub\DatabaseHelper\DatabaseHelper\obj\Release\DatabaseHelper.csprojResolveAssemblyReference.cache
+E:\GitHub\DatabaseHelper\DatabaseHelper\obj\Release\DatabaseHelper.dll
+E:\GitHub\DatabaseHelper\DatabaseHelper\obj\Release\DatabaseHelper.pdb
+E:\GitHub\DatabaseHelper\DatabaseHelper\bin\Release\public_key.snk
+E:\GitHub\DatabaseHelper\DatabaseHelper\bin\Release\DatabaseHelper.dll
+E:\GitHub\DatabaseHelper\DatabaseHelper\bin\Release\DatabaseHelper.pdb
+E:\GitHub\DatabaseHelper\DatabaseHelper\bin\Release\MySql.Data.dll
+E:\GitHub\DatabaseHelper\DatabaseHelper\bin\Release\MySql.Data.Entity.dll
+E:\GitHub\DatabaseHelper\DatabaseHelper\bin\Release\MySql.Web.dll
+E:\GitHub\DatabaseHelper\DatabaseHelper\bin\Release\Enyim.Caching.Log4NetAdapter.pdb
+E:\GitHub\DatabaseHelper\DatabaseHelper\bin\Release\Enyim.Caching.NLogAdapter.pdb

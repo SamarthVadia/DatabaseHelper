@@ -1,0 +1,4 @@
+E:\GitHub\DatabaseHelper\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\GitHub\DatabaseHelper\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+E:\GitHub\DatabaseHelper\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+E:\GitHub\DatabaseHelper\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache

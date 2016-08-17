@@ -20,3 +20,14 @@ Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\bin\Debug\Enyim.Caching.NLogAd
 Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\obj\Debug\DatabaseHelper.csprojResolveAssemblyReference.cache
 Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\obj\Debug\DatabaseHelper.dll
 Z:\LAB\Samarth\Zeus\DatabaseHelper\DatabaseHelper\obj\Debug\DatabaseHelper.pdb
+E:\GitHub\DatabaseHelper\DatabaseHelper\bin\Debug\public_key.snk
+E:\GitHub\DatabaseHelper\DatabaseHelper\bin\Debug\DatabaseHelper.dll
+E:\GitHub\DatabaseHelper\DatabaseHelper\bin\Debug\DatabaseHelper.pdb
+E:\GitHub\DatabaseHelper\DatabaseHelper\bin\Debug\MySql.Data.dll
+E:\GitHub\DatabaseHelper\DatabaseHelper\bin\Debug\MySql.Data.Entity.dll
+E:\GitHub\DatabaseHelper\DatabaseHelper\bin\Debug\MySql.Web.dll
+E:\GitHub\DatabaseHelper\DatabaseHelper\bin\Debug\Enyim.Caching.Log4NetAdapter.pdb
+E:\GitHub\DatabaseHelper\DatabaseHelper\bin\Debug\Enyim.Caching.NLogAdapter.pdb
+E:\GitHub\DatabaseHelper\DatabaseHelper\obj\Debug\DatabaseHelper.csprojResolveAssemblyReference.cache
+E:\GitHub\DatabaseHelper\DatabaseHelper\obj\Debug\DatabaseHelper.dll
+E:\GitHub\DatabaseHelper\DatabaseHelper\obj\Debug\DatabaseHelper.pdb
